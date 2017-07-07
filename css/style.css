@@ -134,7 +134,7 @@ header {
 	width:100%;
 }
 .wthree-about-section-grid h5{
-	color: #ff4c4c;
+	color: #660000;
     font-size: 22px;
     letter-spacing: 1px;
     margin-bottom: 20px;
@@ -620,7 +620,7 @@ span.w3-line {
     font-weight: 400;
 }
 .w3agile-slider-grid-info h5{
-    color: #ff4c4c;
+    color: #660000;
     font-size: 25px;
     margin: 16px 0 10px 0;
 }
@@ -1309,7 +1309,7 @@ footer{
 		min-height: 230px;
 	}
 	.agileits-w3layouts-specials {
-		padding: 0px 0 60px 0;
+		padding: 20px 0 60px 0;
 	}
 	.w3layouts-header-title h2 {
 		padding: 15px;
@@ -1518,7 +1518,7 @@ footer{
 		font-size: 26px;
 	}
 	.agileits-w3layouts-specials {
-		padding: 0px 0 50px 0;
+		padding: 20px 0 50px 0;
 	}
 	.team {
 		padding: 0 0 50px 0;
